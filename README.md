@@ -21,7 +21,7 @@ This project utilizes the TMDB 5000 Movies dataset and calculates consine simila
 
 [TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-**Similarity File**
+**Similarity Pickle File**
 
 Due to github file size limit (100 MB), uploaded the similarity pkL file to google drive.
 
