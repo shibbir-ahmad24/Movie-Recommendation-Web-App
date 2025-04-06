@@ -1,5 +1,7 @@
 # Movie Recommendation Web App
 
+**Live Link**: https://movie-recommendation25.streamlit.app/
+
 **Problem**
 
 With thousands of movies released every year, users often struggle to find movies that match their preferences. The overwhelming number of options necessitates a personalized solution to recommend content effectively.
