@@ -1,6 +1,6 @@
 # Movie Recommendation Web App
 
-**Live Link**: https://movie-recommendation25.streamlit.app/
+**Live View**: https://movie-recommendation25.streamlit.app/
 
 **Problem**
 
