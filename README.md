@@ -27,6 +27,6 @@ This project utilizes the TMDB 5000 Movies dataset and calculates consine simila
 
 **App UI**
 
-![m1](https://github.com/shibbir-ahmad24/End-to-End-Movie-Recommendation-System/blob/main/figures/movie1.png)
+![m1](https://github.com/shibbir-ahmad24/Movie-Recommendation-Web-App/blob/main/figures/movie1.png)
 
-![m2](https://github.com/shibbir-ahmad24/End-to-End-Movie-Recommendation-System/blob/main/figures/movie2.png)
+![m2](https://github.com/shibbir-ahmad24/Movie-Recommendation-Web-App/blob/main/figures/movie2.png)
