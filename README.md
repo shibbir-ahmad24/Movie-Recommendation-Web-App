@@ -25,7 +25,7 @@ This project utilizes the TMDB 5000 Movies dataset and calculates consine simila
 
 Due to github file size limit (100 MB), uploaded the similarity pkL file to google drive.
 
-![drive_link](https://drive.google.com/file/d/15vKIc0PB_IeKBLWEM9WumWJap1Zp9KMG/view?usp=sharing)
+[drive_link](https://drive.google.com/file/d/15vKIc0PB_IeKBLWEM9WumWJap1Zp9KMG/view?usp=sharing)
 
 **Tech Stack:**
 - Programming Language: Python
