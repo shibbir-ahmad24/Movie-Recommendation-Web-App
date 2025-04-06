@@ -1,4 +1,4 @@
-# End-to-End Movie Recommendation App
+# Movie Recommendation Web App
 
 **Problem**
 
@@ -6,7 +6,7 @@ With thousands of movies released every year, users often struggle to find movie
 
 **Solution**
 
-I built a **content-based Movie Recommendation App** that suggests movies similar to a user-selected title. The app integrates Python, Streamlit, and TMDB APIs to deliver recommendations in an interactive, visually appealing format, complete with movie posters.
+I built a **content-based Movie Recommendation Web App** that suggests movies similar to a user-selected title. The app integrates Python, Streamlit, and TMDB APIs to deliver recommendations in an interactive, visually appealing format, complete with movie posters.
 
 **Impact**
 - Simplifies movie discovery for users by presenting curated options.
